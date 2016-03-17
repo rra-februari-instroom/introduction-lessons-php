@@ -45,7 +45,7 @@
 		// Dit is een associatief array
 		$persoonsgegevens = array("voornaam" => "Arjan",
 								  "tussenvoegsel" => "de",
-								  "achternaam" => "Ruijter",
+								  "achternaam" =>"Ruijter",
 								  "geboortedatum" => "30-08-1968",
 								  "woonplaats" => "Castricum",
 								  "postcode" => "1901 CB");
@@ -62,6 +62,10 @@
 		echo "<hr><br><br>";
 		
 		echo "Mijn username op github is: rra-februari-instroom";
+		
+		$hierZitNietsIn = NULL;
+		
+		echo "Wat zit hier in: ".$hierZitNietsIn;
 							  
 					   
 		
