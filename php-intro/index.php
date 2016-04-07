@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Mijn eerste html</title>
+				
 	</head>
 	<body>
 		<?php
@@ -18,5 +19,11 @@
 			 *****************************************/
 			echo "Hallo Wereld!";
 		?>
+		<hr>
+		<a href="../index.php">terug</a>
+		<meta http-equiv="refresh" content="5;url=../index.php">
+		
+		
+		
 	</body>
 </html>

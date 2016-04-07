@@ -33,5 +33,7 @@
 			getal 2: <input type="text" name="getal2"><br>
 			<input type="submit"  value="Bereken!">
 		</form>
+		<hr>
+		<a href="../index.php">terug</a>
 	</body>
 </html>
