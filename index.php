@@ -26,6 +26,9 @@
 			<li>
 				<a href="./php-constants/index.php">php-constants</a>
 			</li>
+			<li>
+				<a href="./php-operators/index.php">php-operators</a>
+			</li>
 		</ol>
 		
 	</body>
